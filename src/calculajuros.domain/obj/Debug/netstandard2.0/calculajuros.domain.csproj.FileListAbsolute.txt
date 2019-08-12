@@ -1,0 +1,17 @@
+C:\Users\dycor\Documents\Dariel\softplan_teste\CalculaJuros\src\taxajuros.domain\bin\Debug\netstandard2.0\calculajuros.domain.deps.json
+C:\Users\dycor\Documents\Dariel\softplan_teste\CalculaJuros\src\taxajuros.domain\bin\Debug\netstandard2.0\calculajuros.domain.dll
+C:\Users\dycor\Documents\Dariel\softplan_teste\CalculaJuros\src\taxajuros.domain\bin\Debug\netstandard2.0\calculajuros.domain.pdb
+C:\Users\dycor\Documents\Dariel\softplan_teste\CalculaJuros\src\taxajuros.domain\obj\Debug\netstandard2.0\calculajuros.domain.csprojAssemblyReference.cache
+C:\Users\dycor\Documents\Dariel\softplan_teste\CalculaJuros\src\taxajuros.domain\obj\Debug\netstandard2.0\calculajuros.domain.csproj.CoreCompileInputs.cache
+C:\Users\dycor\Documents\Dariel\softplan_teste\CalculaJuros\src\taxajuros.domain\obj\Debug\netstandard2.0\calculajuros.domain.AssemblyInfoInputs.cache
+C:\Users\dycor\Documents\Dariel\softplan_teste\CalculaJuros\src\taxajuros.domain\obj\Debug\netstandard2.0\calculajuros.domain.AssemblyInfo.cs
+C:\Users\dycor\Documents\Dariel\softplan_teste\CalculaJuros\src\taxajuros.domain\obj\Debug\netstandard2.0\calculajuros.domain.dll
+C:\Users\dycor\Documents\Dariel\softplan_teste\CalculaJuros\src\taxajuros.domain\obj\Debug\netstandard2.0\calculajuros.domain.pdb
+C:\Users\dycor\Documents\Dariel\softplan_teste\CalculaJuros\src\calculajuros.domain\bin\Debug\netstandard2.0\calculajuros.domain.deps.json
+C:\Users\dycor\Documents\Dariel\softplan_teste\CalculaJuros\src\calculajuros.domain\bin\Debug\netstandard2.0\calculajuros.domain.dll
+C:\Users\dycor\Documents\Dariel\softplan_teste\CalculaJuros\src\calculajuros.domain\bin\Debug\netstandard2.0\calculajuros.domain.pdb
+C:\Users\dycor\Documents\Dariel\softplan_teste\CalculaJuros\src\calculajuros.domain\obj\Debug\netstandard2.0\calculajuros.domain.csproj.CoreCompileInputs.cache
+C:\Users\dycor\Documents\Dariel\softplan_teste\CalculaJuros\src\calculajuros.domain\obj\Debug\netstandard2.0\calculajuros.domain.AssemblyInfoInputs.cache
+C:\Users\dycor\Documents\Dariel\softplan_teste\CalculaJuros\src\calculajuros.domain\obj\Debug\netstandard2.0\calculajuros.domain.AssemblyInfo.cs
+C:\Users\dycor\Documents\Dariel\softplan_teste\CalculaJuros\src\calculajuros.domain\obj\Debug\netstandard2.0\calculajuros.domain.dll
+C:\Users\dycor\Documents\Dariel\softplan_teste\CalculaJuros\src\calculajuros.domain\obj\Debug\netstandard2.0\calculajuros.domain.pdb

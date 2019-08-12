@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "calculajuros.webapi", "src\calculajuros.webapi\calculajuros.webapi.csproj", "{ADC14938-4794-48EB-9964-D21380E8F105}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "calculajuros.test", "src\calculajuros.tests\calculajuros.test.csproj", "{4D39F7D6-4D23-486A-A75D-3A2D958DAB90}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "calculajuros.domain", "src\calculajuros.domain\calculajuros.domain.csproj", "{5063084B-7AEB-4CB9-8082-62FC1BED3290}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Api", "Api", "{98CA9E3E-2EFB-4E78-8B1E-76133AC5AEA8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{A1016514-ACB8-4CAA-94BC-A38DD3D64C6C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{1F292E33-287C-4608-A19E-D001380FE486}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infra", "Infra", "{6435A045-575C-4A7E-8BD2-EFA0C4A8F264}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "calculajuros.infra.services", "src\calculajuros.infra.services\calculajuros.infra.services.csproj", "{9C5E61B7-E76B-4A0E-86F0-B916888C68FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADC14938-4794-48EB-9964-D21380E8F105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADC14938-4794-48EB-9964-D21380E8F105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADC14938-4794-48EB-9964-D21380E8F105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADC14938-4794-48EB-9964-D21380E8F105}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D39F7D6-4D23-486A-A75D-3A2D958DAB90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D39F7D6-4D23-486A-A75D-3A2D958DAB90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D39F7D6-4D23-486A-A75D-3A2D958DAB90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D39F7D6-4D23-486A-A75D-3A2D958DAB90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5063084B-7AEB-4CB9-8082-62FC1BED3290}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5063084B-7AEB-4CB9-8082-62FC1BED3290}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5063084B-7AEB-4CB9-8082-62FC1BED3290}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5063084B-7AEB-4CB9-8082-62FC1BED3290}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C5E61B7-E76B-4A0E-86F0-B916888C68FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C5E61B7-E76B-4A0E-86F0-B916888C68FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C5E61B7-E76B-4A0E-86F0-B916888C68FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C5E61B7-E76B-4A0E-86F0-B916888C68FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{ADC14938-4794-48EB-9964-D21380E8F105} = {98CA9E3E-2EFB-4E78-8B1E-76133AC5AEA8}
+		{4D39F7D6-4D23-486A-A75D-3A2D958DAB90} = {1F292E33-287C-4608-A19E-D001380FE486}
+		{5063084B-7AEB-4CB9-8082-62FC1BED3290} = {A1016514-ACB8-4CAA-94BC-A38DD3D64C6C}
+		{9C5E61B7-E76B-4A0E-86F0-B916888C68FC} = {6435A045-575C-4A7E-8BD2-EFA0C4A8F264}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47586E81-1956-48B4-A219-07AD3DF4B64C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\Users\dycor\Documents\Dariel\softplan_teste\CalculaJuros\src\calculajuros.infra.services\bin\Debug\netstandard2.0\calculajuros.infra.services.deps.json
+C:\Users\dycor\Documents\Dariel\softplan_teste\CalculaJuros\src\calculajuros.infra.services\bin\Debug\netstandard2.0\calculajuros.infra.services.dll
+C:\Users\dycor\Documents\Dariel\softplan_teste\CalculaJuros\src\calculajuros.infra.services\bin\Debug\netstandard2.0\calculajuros.infra.services.pdb
+C:\Users\dycor\Documents\Dariel\softplan_teste\CalculaJuros\src\calculajuros.infra.services\bin\Debug\netstandard2.0\calculajuros.domain.dll
+C:\Users\dycor\Documents\Dariel\softplan_teste\CalculaJuros\src\calculajuros.infra.services\bin\Debug\netstandard2.0\calculajuros.domain.pdb
+C:\Users\dycor\Documents\Dariel\softplan_teste\CalculaJuros\src\calculajuros.infra.services\obj\Debug\netstandard2.0\calculajuros.infra.services.csprojAssemblyReference.cache
+C:\Users\dycor\Documents\Dariel\softplan_teste\CalculaJuros\src\calculajuros.infra.services\obj\Debug\netstandard2.0\calculajuros.infra.services.csproj.CoreCompileInputs.cache
+C:\Users\dycor\Documents\Dariel\softplan_teste\CalculaJuros\src\calculajuros.infra.services\obj\Debug\netstandard2.0\calculajuros.infra.services.AssemblyInfoInputs.cache
+C:\Users\dycor\Documents\Dariel\softplan_teste\CalculaJuros\src\calculajuros.infra.services\obj\Debug\netstandard2.0\calculajuros.infra.services.AssemblyInfo.cs
+C:\Users\dycor\Documents\Dariel\softplan_teste\CalculaJuros\src\calculajuros.infra.services\obj\Debug\netstandard2.0\calculajuros.infra.services.csproj.CopyComplete
+C:\Users\dycor\Documents\Dariel\softplan_teste\CalculaJuros\src\calculajuros.infra.services\obj\Debug\netstandard2.0\calculajuros.infra.services.dll
+C:\Users\dycor\Documents\Dariel\softplan_teste\CalculaJuros\src\calculajuros.infra.services\obj\Debug\netstandard2.0\calculajuros.infra.services.pdb
